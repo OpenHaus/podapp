@@ -5118,9 +5118,10 @@ input.search-query {
       
       #push,
       #footer {
-        height: 160px;
+        height: 120px;
       }
       #footer {
+	margin-top: 20px;
         background-color: #f5f5f5;
       }
       

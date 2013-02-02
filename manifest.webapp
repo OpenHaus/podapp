@@ -1,5 +1,5 @@
 {
-  "version": "0.2",
+  "version": "0.3",
   "name": "podcast.de",
   "description": "Find podcasts easily.",
   "launch_path": "/index.html",
@@ -13,7 +13,6 @@
     "url": "http://www.podcasting.in"
   },
   "installs_allowed_from": ["*"],
-  "appcache_path": "/cache.manifest",
   "locales": {
     "de": {
       "description": "Finde einfach Podcasts. Speichere Favoriten. Baue Playlisten. Höre Audios und sehe Videos online. Lade alles herunter! Teile Inhalte. Bewerte und kommentiere Podcasts und Folgen. Neue Episoden deiner Lieblingspodcasts immer griffbereit.",

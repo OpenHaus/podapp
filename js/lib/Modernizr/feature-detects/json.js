@@ -1,0 +1,1 @@
+(function(e){var t;define([],function(){return function(){Modernizr.addTest("json",!!window.JSON&&!!JSON.parse)}.call(e),t})})(this)

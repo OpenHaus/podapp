@@ -1,0 +1,1 @@
+(function(e){var t;define([],function(){return function(){Modernizr.addTest("scriptasync","async"in document.createElement("script"))}.call(e),t})})(this)

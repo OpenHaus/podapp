@@ -1,1 +1,81 @@
-Setting up pages...
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>podcast.de</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="css/app.css">
+  </head>
+  <body>
+
+<div id="#wrap">
+      <header id="header" class="subhead">
+          <div class="container">
+              <a href="/" class="logo">
+                <h1><span class="name">podcast.de</span></h1>
+              </a>
+              <p class="lead">Find podcasts easily</p>
+          </div>
+      </header>
+
+      <div class="container">        
+        <div class="content">
+          <ul class="nav nav-tabs">
+            <li class="active"><a href="#search">Search</a></li>
+            <li><a href="#charts">Charts</a></li>
+            <li><a href="#favorites">Favorites</a></li>
+            <!--<li><a href="#directory">Directory</a></li>//-->
+          </ul>
+
+        <div class="tab-content">
+          <div class="tab-pane active" id="search">
+
+            <h2 class="name"></h2>
+		<form class="navbar-search pull-left">
+			<input type="text" class="search-query span2" name="q" value="" placeholder="Search" autocapitalize="off" autofocus />
+			<button class="btn search">Search</button>
+		</form>
+          </div>
+          <div class="tab-pane" id="charts">
+          </div>
+          <div class="tab-pane" id="favorites">
+		<div><p>Sorry, this is not ready, yet!</p></div>
+          </div>
+          <div class="tab-pane" id="directory">
+          </div>
+          <div class="tab-pane" id="settings">
+            Username or email: <input type="text" name="email" />
+            Password: <input type="password" name="password" />
+            <div>
+              <button class="btn save">Save</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="row">
+        <div class="span3" id="results" style="display:none;"><button id="install-btn">Install</button>Lädt...</div>
+      </div>  
+    </div>  
+
+    <footer id="footer">
+      <div class="container">
+        <div class="span3">
+	    <button id="install-btn">Install</button>    
+        </div>
+      </div>  
+    </footer>  
+
+</div>
+
+    <!-- Using require.js, a module system for javascript, include the
+         js files. This loads "main.js", which in turn can load other
+         files, all handled by require.js:
+         http://requirejs.org/docs/api.html#jsfiles -->
+    <script type="text/javascript" data-main="js/init.js"
+            src="js/lib/require.js"></script>
+  </body>
+</html>

@@ -1,0 +1,1 @@
+(function(e){var t;define([],function(){return function(){Modernizr.addTest("webintents",function(){return!!Modernizr.prefixed("startActivity",navigator)})}.call(e),t})})(this)

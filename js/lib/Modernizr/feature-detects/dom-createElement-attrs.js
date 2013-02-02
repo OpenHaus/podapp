@@ -1,0 +1,1 @@
+(function(e){var t;define([],function(){return function(){Modernizr.addTest("createelement-attrs",function(){try{return document.createElement("<input name='test' />").getAttribute("name")=="test"}catch(e){return!1}})}.call(e),t})})(this)

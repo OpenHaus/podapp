@@ -1,0 +1,1 @@
+(function(e){var t;define([],function(){return function(){Modernizr.addTest("speechinput",function(){var e=document.createElement("input");return"speech"in e||"onwebkitspeechchange"in e})}.call(e),t})})(this)

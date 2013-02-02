@@ -1,0 +1,1 @@
+(function(e){var t;define([],function(){return function(){Modernizr.addTest("battery",!!Modernizr.prefixed("battery",navigator))}.call(e),t})})(this)

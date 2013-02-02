@@ -1,0 +1,1 @@
+(function(e){var t;define([],function(){return function(){Modernizr.addTest("contextmenu","contextMenu"in document.documentElement&&"HTMLMenuItemElement"in window)}.call(e),t})})(this)

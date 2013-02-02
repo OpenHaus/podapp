@@ -1,0 +1,1 @@
+(function(e){var t;define([],function(){return function(){Modernizr.addTest("getusermedia",!!Modernizr.prefixed("getUserMedia",navigator))}.call(e),t})})(this)

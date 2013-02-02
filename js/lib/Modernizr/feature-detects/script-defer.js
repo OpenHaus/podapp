@@ -1,0 +1,1 @@
+(function(e){var t;define([],function(){return function(){Modernizr.addTest("scriptdefer","defer"in document.createElement("script"))}.call(e),t})})(this)

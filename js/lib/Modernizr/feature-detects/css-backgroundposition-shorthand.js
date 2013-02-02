@@ -1,0 +1,1 @@
+(function(e){var t;define([],function(){return function(){(function(){var e=document.createElement("a"),t=e.style,n="right 10px bottom 10px";Modernizr.addTest("bgpositionshorthand",function(){return t.cssText="background-position: "+n+";",t.backgroundPosition===n})})()}.call(e),t})})(this)

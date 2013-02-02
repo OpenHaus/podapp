@@ -1,0 +1,1 @@
+(function(e){var t;define([],function(){return function(){Modernizr.addTest("userselect",function(){return Modernizr.testAllProps("user-select")})}.call(e),t})})(this)

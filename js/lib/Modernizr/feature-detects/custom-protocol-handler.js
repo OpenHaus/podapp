@@ -1,0 +1,1 @@
+(function(e){var t;define([],function(){return function(){Modernizr.addTest("customprotocolhandler",function(){return!!navigator.registerProtocolHandler})}.call(e),t})})(this)

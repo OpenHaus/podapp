@@ -1,0 +1,1 @@
+(function(e){var t;define([],function(){return function(){Modernizr.addTest("blobconstructor",function(){try{return!!(new Blob)}catch(e){return!1}})}.call(e),t})})(this)

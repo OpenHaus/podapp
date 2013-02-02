@@ -1,0 +1,1 @@
+(function(e){var t;define([],function(){return function(){Modernizr.addTest("websocketsbinary",!!window.WebSocket&&!!(new WebSocket("ws://.")).binaryType)}.call(e),t})})(this)

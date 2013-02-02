@@ -1,0 +1,1 @@
+(function(e){var t;define([],function(){return function(){Modernizr.addTest("mediaqueries",Modernizr.mq("only all"))}.call(e),t})})(this)

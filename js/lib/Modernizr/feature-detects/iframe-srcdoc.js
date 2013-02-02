@@ -1,0 +1,1 @@
+(function(e){var t;define([],function(){return function(){Modernizr.addTest("srcdoc","srcdoc"in document.createElement("iframe"))}.call(e),t})})(this)

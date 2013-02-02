@@ -1,0 +1,1 @@
+(function(e){var t;define([],function(){return function(){Modernizr.addTest("gamepads",!!Modernizr.prefixed("getGamepads",navigator))}.call(e),t})})(this)

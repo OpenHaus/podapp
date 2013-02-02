@@ -1,0 +1,77 @@
+
+html, body {
+    height: 100%;
+}
+body {
+    font-family: 'MozTTLight', Verdana, sans-serif;
+}
+h1 {
+    font: 2.2rem/4.8rem "Open Sans", Sans-serif;
+}
+a.logo {
+	display: block;
+	height: 62px;
+	width: 150px;
+	background: url('/img/podcast_logo.gif');
+	margin: 20px 0 10px;
+}
+a.logo span.name {
+	display: none;
+}
+x-view .contents {
+    padding: 1em;
+}
+x-view h1 {
+    margin-top: 0;
+}
+x-view.edit .field {
+    margin-top: 1em;
+}
+x-listview.list li:before {
+    content: ' ';
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    background: url(../img/glyphicons-halflings.png) no-repeat -95px -2px;
+    margin-right: 5px;
+    vertical-align: middle;
+}
+ul li {
+}
+div.thumbnail {
+}
+input.search-query {
+	display: inline !important;
+	width: 200px;
+}
+      
+      html,
+      body {
+        height: 100%;
+        
+      }
+      
+      #wrap {
+        min-height: 100%;
+        height: auto !important;
+        height: 100%;
+        
+        margin: 0 auto -60px;
+      }
+      
+      #push,
+      #footer {
+        height: 160px;
+      }
+      #footer {
+        background-color: #f5f5f5;
+      }
+      
+      @media (max-width: 767px) {
+        #footer {
+          margin-left: -20px;
+          margin-right: -20px;
+          padding-left: 20px;
+          padding-right: 20px;
+        }
+      }

@@ -1,0 +1,1 @@
+(function(e){var t;define([],function(){return function(){Modernizr.addTest("outputelem","value"in document.createElement("output"))}.call(e),t})})(this)

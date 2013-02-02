@@ -1,0 +1,1 @@
+(function(e){var t;define([],function(){return function(){Modernizr.addTest("microdata",!!document.getItems)}.call(e),t})})(this)

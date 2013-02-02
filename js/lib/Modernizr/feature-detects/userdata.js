@@ -1,0 +1,1 @@
+(function(e){var t;define([],function(){return function(){Modernizr.addTest("userdata",function(){return!!document.createElement("div").addBehavior})}.call(e),t})})(this)

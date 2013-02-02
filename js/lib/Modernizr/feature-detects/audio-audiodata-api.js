@@ -1,0 +1,1 @@
+(function(e){var t;define([],function(){return function(){Modernizr.addTest("audiodata",!!window.Audio)}.call(e),t})})(this)

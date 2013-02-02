@@ -1,0 +1,1 @@
+(function(e){var t;define([],function(){return function(){Modernizr.addTest("fileinput",function(){var e=document.createElement("input");return e.type="file",!e.disabled})}.call(e),t})})(this)

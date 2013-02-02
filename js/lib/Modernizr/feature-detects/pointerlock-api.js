@@ -1,0 +1,1 @@
+(function(e){var t;define([],function(){return function(){Modernizr.addTest("pointerlock",!!Modernizr.prefixed("pointerLockElement",document))}.call(e),t})})(this)

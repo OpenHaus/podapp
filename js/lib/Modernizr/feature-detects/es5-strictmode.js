@@ -1,0 +1,1 @@
+(function(e){var t;define([],function(){return function(){Modernizr.addTest("strictmode",function(){return function(){return!this}()})}.call(e),t})})(this)

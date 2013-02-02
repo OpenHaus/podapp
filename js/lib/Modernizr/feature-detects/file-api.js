@@ -1,0 +1,1 @@
+(function(e){var t;define([],function(){return function(){Modernizr.addTest("filereader",function(){return!!(window.File&&window.FileList&&window.FileReader)})}.call(e),t})})(this)

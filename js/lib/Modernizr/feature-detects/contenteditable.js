@@ -1,0 +1,1 @@
+(function(e){var t;define([],function(){return function(){Modernizr.addTest("contenteditable","contentEditable"in document.documentElement)}.call(e),t})})(this)

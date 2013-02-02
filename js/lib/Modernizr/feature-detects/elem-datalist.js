@@ -1,0 +1,1 @@
+(function(e){var t;define([],function(){return function(){Modernizr.addTest("datalistelem",Modernizr.input.list)}.call(e),t})})(this)

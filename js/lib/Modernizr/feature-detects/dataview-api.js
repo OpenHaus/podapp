@@ -1,0 +1,1 @@
+(function(e){var t;define([],function(){return function(){Modernizr.addTest("dataview",typeof DataView!="undefined"&&"getFloat64"in DataView.prototype)}.call(e),t})})(this)

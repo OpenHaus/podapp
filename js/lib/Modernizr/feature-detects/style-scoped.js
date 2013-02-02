@@ -1,0 +1,1 @@
+(function(e){var t;define([],function(){return function(){Modernizr.addTest("stylescoped","scoped"in document.createElement("style"))}.call(e),t})})(this)

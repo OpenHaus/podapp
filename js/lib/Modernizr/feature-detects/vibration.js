@@ -1,0 +1,1 @@
+(function(e){var t;define([],function(){return function(){Modernizr.addTest("vibrate",!!Modernizr.prefixed("vibrate",navigator))}.call(e),t})})(this)

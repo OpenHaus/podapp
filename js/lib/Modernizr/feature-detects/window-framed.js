@@ -1,0 +1,1 @@
+(function(e){var t;define([],function(){return function(){Modernizr.addTest("framed",function(){return window.location!=top.location})}.call(e),t})})(this)

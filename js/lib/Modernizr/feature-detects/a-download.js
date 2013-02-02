@@ -1,0 +1,1 @@
+(function(e){var t;define([],function(){return function(){Modernizr.addTest("adownload","download"in document.createElement("a"))}.call(e),t})})(this)

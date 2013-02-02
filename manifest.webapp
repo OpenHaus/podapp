@@ -1,0 +1,32 @@
+{
+  "version": "0.1",
+  "name": "podcast.de",
+  "description": "Find podcasts easily.",
+  "launch_path": "/",
+  "icons": {
+    "16": "/img/icons/pod-16.png",
+    "48": "/img/icons/pod-48.png",
+    "128": "/img/icons/pod-128.png"
+  },
+  "developer": {
+    "name": "Fabio Bacigalupo",
+    "url": "http://www.podcasting.in"
+  },
+  "installs_allowed_from": ["*"],
+  "appcache_path": "/cache.manifest",
+  "locales": {
+    "de": {
+      "description": "Finde einfach Podcasts. Speichere Favoriten. Baue Playlisten. Höre Audios und sehe Videos online. Lade alles herunter! Teile Inhalte. Bewerte und kommentiere Podcasts und Folgen. Neue Episoden deiner Lieblingspodcasts immer griffbereit.",
+      "developer": {
+        "url": "http://www.podcast.de"
+      }
+    },
+    "fr": {
+      "description": "Trouve podcasts",
+      "developer": {
+        "url": "http://www.podcast.fr"
+      }
+    }
+  },
+  "default_locale": "en"
+}

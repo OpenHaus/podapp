@@ -1,0 +1,1 @@
+(function(e){var t;define([],function(){return function(){Modernizr.addTest("performance",!!Modernizr.prefixed("performance",window))}.call(e),t})})(this)

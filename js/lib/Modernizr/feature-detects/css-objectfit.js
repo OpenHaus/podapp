@@ -1,0 +1,1 @@
+(function(e){var t;define([],function(){return function(){Modernizr.addTest("object-fit",!!Modernizr.prefixed("objectFit"))}.call(e),t})})(this)

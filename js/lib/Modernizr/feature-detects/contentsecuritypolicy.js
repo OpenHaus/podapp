@@ -1,0 +1,1 @@
+(function(e){var t;define([],function(){return function(){Modernizr.addTest("contentsecuritypolicy","SecurityPolicy"in document)}.call(e),t})})(this)
